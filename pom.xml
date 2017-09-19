@@ -183,7 +183,7 @@
                 <version>${easyb.version}</version>
                 <scope>test</scope>
             </dependency>
-        </dependencies>
+        </dependencies>  
     </dependencyManagement>
     <dependencies>
         <dependency>
@@ -496,3 +496,10 @@
         </profile>
     </profiles>
 </project>
+
+<distributionManagement>
+  <repository>
+    <id>releases</id>
+    <name>Releases</name>
+    <url>http://172.18.219.248:8081/nexus/content/repositories/releases</url>
+  </repository>
