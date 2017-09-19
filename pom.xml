@@ -499,7 +499,7 @@
 
 <distributionManagement>
   <repository>
-  <id>repositorio1</id>
-  <name>repositorio1</name>
-  <url>http://172.18.219.248:8081/nexus/content/repositories/repositorio1/</url>
+  <id>testefinal</id>
+  <name>testefinal</name>
+  <url>http://172.18.219.248:8081/nexus/content/repositories/testefinal</url>
   </repository>
