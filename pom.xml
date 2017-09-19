@@ -501,5 +501,5 @@
   <repository>
   <id>repo1</id>
   <name>repo1</name>
-  <url>http://172.18.219.248:8081/nexus/content/repositories/repo1/</url>
+  <url>http://172.18.219.248:8081/nexus/content/repositories/jenkinsnexus/</url>
   </repository>
